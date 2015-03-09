@@ -1,2 +1,25 @@
-# gradle_study
-gradleの勉強
+# What is gradle
+gradle is build tool.
+for example ios,Android.
+But it can use also other purposes.
+
+## tutorial
+
+## init
+
+## to launch gradle gui
+```
+gradle --gui
+```
+
+## to clean build
+```
+gradle clean
+```
+
+## task list
+it can see to be able to use task.
+```
+gradle tasks
+```
+
