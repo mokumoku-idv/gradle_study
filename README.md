@@ -6,6 +6,10 @@ But it can use also other purposes.
 ## tutorial
 
 ## init
+to create gradle project
+```
+gradle init --type java-library
+```
 
 ## to launch gradle gui
 ```
@@ -21,5 +25,11 @@ gradle clean
 it can see to be able to use task.
 ```
 gradle tasks
+```
+
+## gradle daemon
+java is so heavy,daemonを常駐させる
+```
+gradle --daemon hello
 ```
 
